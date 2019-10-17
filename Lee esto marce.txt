@@ -1,0 +1,5 @@
+La pagina web debe tener lo siguiente un modulo para inicio de sesion, donde antes de iniciar sesion se puedan contemplar algunos articulos en venta con botones que al clickarlos te redirigan a la pagina de registro, tambien se debe de ver un poco de informacion sobre la pagina al momento de iniciar sesion debe validar a ver si es un usuario tipo admin o tipo normal si es un usuario normal entonces tiene acceso a las pestañas de "contactanos", de "sobre nuestra empresa", de "articulos" y "carrito", aparte puede eliminar articulos y puede cerrar sesion
+
+para un admin, este puede agregar articulos al carrito y modificar usuarios, aca pues tenemos el master de los crud "articulos" y "usuarios", el tiene acceso a todo lo que el usuario normal tiene, y tambien puede cerrar sesion
+
+Pues nadamas es esto marce, te adjunto la plantilla que tenia pensado usar
